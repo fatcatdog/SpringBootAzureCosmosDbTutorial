@@ -1,0 +1,8 @@
+# Specify the DNS URI of your Azure Cosmos DB.
+azure.cosmosdb.uri=https://81d2d871-0ee0-4-231-b9ee.documents.azure.com:443/
+
+# Specify the access key for your database.
+azure.cosmosdb.key=57686f6120447564652c20426f6220526f636b73==
+
+# Specify the name of your database.
+azure.cosmosdb.database=wingtiptoysdata
